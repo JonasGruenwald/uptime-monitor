@@ -7,14 +7,23 @@ sites:
     url: https://gruppo-due.com/
   - name: Gruppo Due Backend
     url: https://flouz.mgmt.gruppo-due.com/
+  - name: Gruppo Due Analytics
+    url: https://analytics.mgmt.gruppo-due.com/
   - name: Personal Site
     url: https://jonasg.me/
   - name: Kohlswat
     url: https://kohlswat.studio/
+  - name: Distancing Admin
+    url: https://admin.distancing.space
   - name: Fumetto Frontend
     url: https://fumetto.ch/
   - name: Fumetto Backend
     url: https://admin.fumetto.ch/admin
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co  
+    
+assignees: # Users to assign downtime issues (optional)
+- JonasGruenwald
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,13 +32,16 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Website Status Monitor"
-  introMessage: "[**Documentation**](https://upptime.js.org/docs/)"
+  #introTitle: "Website Status Monitor"
+  #introMessage: "[**Documentation**](https://upptime.js.org/docs/)"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Documentation
+      href: https://upptime.js.org/docs/
 
+user-agent: JonasGruenwald
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
