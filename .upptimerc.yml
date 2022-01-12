@@ -19,6 +19,12 @@ sites:
     url: https://fumetto.ch/
   - name: Fumetto Backend
     url: https://admin.fumetto.ch/admin
+  - name: 76666 World
+    url: https://76666.world/
+  - name: V8
+    url: http://viktoria8.de/
+  - name: V8 Shop
+    url: https://shop.viktoria8.de/
  # - name: Test Broken Site
  #   url: https://thissitedoesnotexist.koj.co  
     
