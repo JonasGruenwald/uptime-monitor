@@ -58,19 +58,19 @@
     "url": "https://jonasg.me/",
     "icon": "https://favicons.githubusercontent.com/jonasg.me",
     "slug": "personal-site",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1120,
-    "timeDay": 1137,
-    "timeWeek": 1408,
-    "timeMonth": 1120,
-    "timeYear": 1120,
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 1395,
+    "timeDay": 3194,
+    "timeWeek": 1888,
+    "timeMonth": 1395,
+    "timeYear": 1395,
     "dailyMinutesDown": {
-      "2022-01-22": 1
+      "2022-01-22": 81
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://kohlswat.studio/",
     "icon": "https://favicons.githubusercontent.com/kohlswat.studio",
     "slug": "kohlswat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 390,
-    "timeWeek": 491,
-    "timeMonth": 584,
-    "timeYear": 584,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "94.39%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 564,
+    "timeDay": 335,
+    "timeWeek": 464,
+    "timeMonth": 564,
+    "timeYear": 564,
     "dailyMinutesDown": {
-      "2022-01-22": 0
+      "2022-01-22": 81
     }
   },
   {
