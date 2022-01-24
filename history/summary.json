@@ -154,19 +154,19 @@
     "url": "https://76666.world/",
     "icon": "https://favicons.githubusercontent.com/76666.world",
     "slug": "76666-world",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 289,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 290,
+    "timeDay": 271,
+    "timeWeek": 258,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2022-01-24": 0
+      "2022-01-24": 13
     }
   },
   {
