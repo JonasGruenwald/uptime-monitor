@@ -22,9 +22,9 @@
     "url": "https://flouz.mgmt.gruppo-due.com/",
     "icon": "https://favicons.githubusercontent.com/flouz.mgmt.gruppo-due.com",
     "slug": "gruppo-due-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 377,
     "timeMonth": 383,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-09": 0
+    }
   },
   {
     "name": "Gruppo Due Analytics",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/jonasg.me",
     "slug": "personal-site",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 895,
     "timeDay": 210,
     "timeWeek": 259,
