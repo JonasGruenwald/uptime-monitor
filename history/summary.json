@@ -22,19 +22,19 @@
     "url": "https://flouz.mgmt.gruppo-due.com/",
     "icon": "https://favicons.githubusercontent.com/flouz.mgmt.gruppo-due.com",
     "slug": "gruppo-due-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 352,
-    "timeWeek": 377,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 382,
+    "timeDay": 342,
+    "timeWeek": 371,
+    "timeMonth": 382,
+    "timeYear": 382,
     "dailyMinutesDown": {
-      "2022-02-09": 0
+      "2022-02-09": 29
     }
   },
   {
