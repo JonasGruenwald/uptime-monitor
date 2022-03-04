@@ -177,19 +177,19 @@
     "url": "https://poster.coalandice.org/backend/admin",
     "icon": "https://favicons.githubusercontent.com/poster.coalandice.org",
     "slug": "posterator-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 27,
-    "timeDay": 29,
-    "timeWeek": 27,
-    "timeMonth": 27,
-    "timeYear": 27,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 29,
+    "timeDay": 35,
+    "timeWeek": 29,
+    "timeMonth": 29,
+    "timeYear": 29,
     "dailyMinutesDown": {
-      "2022-03-04": 0
+      "2022-03-04": 12
     }
   },
   {
