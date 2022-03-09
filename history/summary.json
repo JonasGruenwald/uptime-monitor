@@ -4,19 +4,19 @@
     "url": "https://gruppo-due.com/",
     "icon": "https://favicons.githubusercontent.com/gruppo-due.com",
     "slug": "gruppo-due-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 185,
-    "timeWeek": 132,
-    "timeMonth": 163,
-    "timeYear": 222,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 224,
+    "timeDay": 269,
+    "timeWeek": 159,
+    "timeMonth": 169,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 14
     }
   },
   {
