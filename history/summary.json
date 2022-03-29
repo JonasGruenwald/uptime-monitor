@@ -60,10 +60,10 @@
     "url": "https://jonasg.me/",
     "icon": "https://favicons.githubusercontent.com/jonasg.me",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 833,
@@ -72,6 +72,7 @@
     "timeMonth": 649,
     "timeYear": 833,
     "dailyMinutesDown": {
+      "2022-03-29": 1,
       "2022-01-29": 20,
       "2022-01-22": 81
     }
@@ -81,9 +82,9 @@
     "url": "https://kohlswat.studio/",
     "icon": "https://favicons.githubusercontent.com/kohlswat.studio",
     "slug": "kohlswat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -93,6 +94,7 @@
     "timeMonth": 497,
     "timeYear": 497,
     "dailyMinutesDown": {
+      "2022-03-29": 0,
       "2022-01-22": 81
     }
   },
