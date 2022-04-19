@@ -4,9 +4,9 @@
     "url": "https://gruppo-due.com/",
     "icon": "https://favicons.githubusercontent.com/gruppo-due.com",
     "slug": "gruppo-due-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 162,
     "timeYear": 195,
     "dailyMinutesDown": {
+      "2022-04-19": 0,
       "2022-04-14": 33
     }
   },
@@ -200,18 +201,19 @@
     "url": "https://76666.world/",
     "icon": "https://favicons.githubusercontent.com/76666.world",
     "slug": "76666-world",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.93%",
-    "time": 255,
-    "timeDay": 262,
-    "timeWeek": 127,
-    "timeMonth": 240,
-    "timeYear": 255,
+    "time": 254,
+    "timeDay": 169,
+    "timeWeek": 121,
+    "timeMonth": 235,
+    "timeYear": 254,
     "dailyMinutesDown": {
+      "2022-04-19": 0,
       "2022-04-14": 82,
       "2022-03-01": 18
     }
