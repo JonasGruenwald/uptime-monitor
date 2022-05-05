@@ -149,11 +149,11 @@
     "icon": "https://favicons.githubusercontent.com/admin.fumetto.ch",
     "slug": "fumetto-backend",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 515,
     "timeDay": 401,
     "timeWeek": 524,
@@ -226,9 +226,9 @@
     "url": "http://viktoria8.de/",
     "icon": "https://favicons.githubusercontent.com/viktoria8.de",
     "slug": "v8",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -237,7 +237,9 @@
     "timeWeek": 1102,
     "timeMonth": 595,
     "timeYear": 462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 0
+    }
   },
   {
     "name": "V8 Shop",
