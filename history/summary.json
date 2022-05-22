@@ -26,10 +26,10 @@
     "url": "https://flouz.mgmt.gruppo-due.com/",
     "icon": "https://favicons.githubusercontent.com/flouz.mgmt.gruppo-due.com",
     "slug": "gruppo-due-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 383,
@@ -38,6 +38,7 @@
     "timeMonth": 375,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2022-05-22": 1,
       "2022-02-09": 29
     }
   },
@@ -114,9 +115,9 @@
     "url": "https://admin.distancing.space",
     "icon": "https://favicons.githubusercontent.com/admin.distancing.space",
     "slug": "distancing-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +126,9 @@
     "timeWeek": 393,
     "timeMonth": 386,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-22": 0
+    }
   },
   {
     "name": "Fumetto Frontend",
